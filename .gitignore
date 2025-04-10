@@ -27,3 +27,12 @@ sistema-smarttv-tv/.vscode/settings.json
 java-terminal/.vscode/settings.json
 Projetos/conta-banco/.vscode/settings.json
 controle-fluxo/.vscode/settings.json
+
+# IntelliJ IDEA
+.idea
+*.iws
+*.iml
+*.ipr
+
+# VS Code
+.vscode/
